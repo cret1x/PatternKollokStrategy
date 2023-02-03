@@ -1,17 +1,17 @@
 public class JetPrinter implements IPrinter{
 
     @Override
-    public void Print() {
+    public void print() {
         System.out.println("Printing on JetPrinter");
     }
 
     @Override
-    public int GetInkLevel() {
+    public int getInkLevel() {
         return 42;
     }
 
     @Override
-    public void SetPrintParams(String params) {
+    public void setPrintParams(String params) {
     }
 
     public JetPrinter() {

@@ -1,16 +1,16 @@
 public class LaserPrinter implements IPrinter{
     @Override
-    public void Print() {
+    public void print() {
         System.out.println("Printing on LaserPrinter");
     }
 
     @Override
-    public int GetInkLevel() {
+    public int getInkLevel() {
         return 1337;
     }
 
     @Override
-    public void SetPrintParams(String params) {
+    public void setPrintParams(String params) {
 
     }
 }

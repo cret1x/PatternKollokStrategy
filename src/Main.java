@@ -5,8 +5,8 @@ public class Main {
         printers[1] = new LaserPrinter();
 
         for (var printer: printers) {
-            System.out.println(printer.GetInkLevel());
-            printer.Print();
+            System.out.println(printer.getInkLevel());
+            printer.print();
         }
     }
 }

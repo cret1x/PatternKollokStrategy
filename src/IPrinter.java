@@ -1,5 +1,5 @@
 public interface IPrinter {
-    public void Print();
-    public int GetInkLevel();
-    public void SetPrintParams(String params);
+    public void print();
+    public int getInkLevel();
+    public void setPrintParams(String params);
 }
