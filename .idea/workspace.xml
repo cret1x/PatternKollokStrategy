@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02e395a5-eafa-448f-921b-5a785425d16c" name="Changes" comment="Added files">
+    <list default="true" id="02e395a5-eafa-448f-921b-5a785425d16c" name="Changes" comment="Updated codestyle">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ColorPrintStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IPrintStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MonoPrintStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JetPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JetPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LaserPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LaserPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JetPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColorPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LaserPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MonochromePrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675450875435</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated codestyle">
+      <created>1675451383691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675451383691</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files" />
+    <MESSAGE value="Updated codestyle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated codestyle" />
   </component>
 </project>
